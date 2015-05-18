@@ -1,0 +1,9 @@
+E:\Project 2013\SeaFoodAPI\DataAccess\bin\Debug\DataAccess.dll
+E:\Project 2013\SeaFoodAPI\DataAccess\bin\Debug\DataAccess.pdb
+E:\Project 2013\SeaFoodAPI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Project 2013\SeaFoodAPI\DataAccess\obj\Debug\DataAccess.dll
+E:\Project 2013\SeaFoodAPI\DataAccess\obj\Debug\DataAccess.pdb
+E:\Project 2013\SeaFoodAPI\DataAccess\bin\Debug\Util.dll
+E:\Project 2013\SeaFoodAPI\DataAccess\bin\Debug\Util.pdb
+E:\Project 2013\SeaFoodAPI\DataAccess\bin\Debug\BusinessLogics.dll
+E:\Project 2013\SeaFoodAPI\DataAccess\bin\Debug\BusinessLogics.pdb
